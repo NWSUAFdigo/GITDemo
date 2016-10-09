@@ -24,4 +24,8 @@
     NSLog(@"添加了test1方法");
 }
 
+- (void)test2{
+    NSLog(@"添加了test2方法");
+}
+
 @end
