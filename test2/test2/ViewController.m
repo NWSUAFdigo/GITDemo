@@ -20,5 +20,8 @@
     NSLog(@"初始化项目完成");
 }
 
+- (void)test1{
+    NSLog(@"添加了test1方法");
+}
 
 @end
